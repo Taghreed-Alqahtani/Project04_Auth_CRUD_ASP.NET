@@ -8,7 +8,8 @@
 # (App_Name) | اسم التطبيق
   Pets Houses
 ### المقدمــة | Introduction 
-     We are useing the power of the Internet to connect adopters with shelter pets and help pets go from alone to adopted. With small store.
+  
+  We are useing the power of the Internet to connect adopters with shelter pets and help pets go from alone to adopted. With small store.
  
 ### Demo  
  ![Farmers Market Finder Demo](image/myproject1.gif)
